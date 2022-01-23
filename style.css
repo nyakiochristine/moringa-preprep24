@@ -97,7 +97,47 @@ li{
     border: none;
     width: 120px;
     height: 48px;
-    color: white;
-    font-size: 15px;
+}
+.Discover{
+    background-color: #F6B400;
+}
+.decker{
+    color: #F6B400;
+}
+.yummy{
+    margin-left: 20%;
+    margin-bottom: 45%;
+    height: 650px;
+    width: 650px;
     
 }
+.yummies{
+    margin-left: 60%;
+    margin-bottom: 155% 155%;
+    height: 650px; ;
+    width: 650px;
+}
+.Double .decker{
+    height: 50%;
+}
+.mob2{
+    margin-left: 70%;
+
+}
+.mob1{
+    margin-left: 60%;
+    margin-top: 70%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+    
+
