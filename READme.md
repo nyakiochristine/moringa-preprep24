@@ -12,6 +12,7 @@
 + [Reference](#reference)
 + [License](#licence)
 + [Author's Info](#author-info)
+email address - [christine.mwangi@student.moringaschool.com]
 
 ## Description
 
