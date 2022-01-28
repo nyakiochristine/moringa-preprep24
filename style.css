@@ -134,7 +134,8 @@ li{
 
 .mob2{
     margin-left: 80%;
-    margin-bottom: 100%;
+    margin-bottom: 180%;
+    
     
 
 }
@@ -149,7 +150,7 @@ li{
     margin-left: 5%;
 }
 .dropdown{
-    margin-left: 30%;
+    margin-left: 50%;
     font-style: normals;
     
     
@@ -227,6 +228,11 @@ li{
     float: right;
     display: flex;
 }
+i {
+    background-size: calc(50px);
+    float:var(light rgb(130, 209, 233))
+}
+
 
 
 
