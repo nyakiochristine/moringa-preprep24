@@ -207,7 +207,6 @@ li{
 }
 .box5{
     border-color: #574104;
-    box-sizing: content-box;
     border-radius: 80px;
     border-style: inset;
     text-align: center;
@@ -215,7 +214,7 @@ li{
 }
 .box6{
     border-color: #574104;
-    box-sizing: content-box;
+    
     border-radius: 80px;
     border-style: inset;
     text-align: center;
